@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvita, sans-serif;
+    background: #e6e6e6;
+}
+
+#cabecalho{
+    background: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+
+h1{
+   padding: 10px;
+   color: #4e4e4e;
+   font-size: 2.5em;
+   padding: 10px;
+}
+
+
+.branco{
+    color: white;
+}
+
+#link a:link, #link a:visited {
+    color: white;
+    padding: 8px 12px;
+}
+
+#link a:hover{
+    color: #f7b600;
+    background: #fff;
+    text-decoration: none;
+}
+
+ a:link, a:visited {
+    color: #dfa609;
+    padding: 8px 12px;
+}
+
+ a:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+}
+
+#area-postagem{
+    width: 920px;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+#postagens{
+    width: 660px;
+    float: left;
+
+}
+
+.postagem-lateral{
+    background: white;
+    width: 340px;
+    padding: 20px;
+    margin: 30px;
+    float: right;
+    line-height: 1.8
+}
+
+.post{
+    background: white;
+  
+    
+}
+
+
+
+
+.post-lateral{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+   
+h4{
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #ccc;
+}
+
+.lista{
+    display: block;
+}
+
+.data{
+    font-size: 0.8em;
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.post-direita{
+    font-size: 0.8em;
+    padding: 5px;
+}
+
+.post-di{
+    font-size: 0.8em;
+    padding: 5px;
+}
+
+.post3{
+    font-size: 1.2em;
+    margin-left: px;
+}
+
+h2{
+    color: #f7b600;
+}
+
+h3{
+    color: #565656;
+    background: #ccc;
+    padding: 5px;
+}
+
+.categorias{
+    padding: px;
+
+}
+
+
